@@ -122,8 +122,6 @@ SELECT * FROM Project_detail;
 
 
 # Soal uas
-![alt text](gambar/image.png)
-
 ### Berdasarkan ERD dan Sampel Data diatas buatla Query SQL untuk:
 1. Menampilkan Nama Karyawan yang Berada di Departemen yang Dipimpin
 oleh Manajer dengan Nama 'Rika'
