@@ -1,0 +1,2 @@
+# UASBasisData
+ <img src=https://www.google.com/imgres?q=foto%20uas%20tulisan&imgurl=https%3A%2F%2Fpkk.unnes.ac.id%2Fwp-content%2Fuploads%2F2019%2F06%2FUAS.jpg&imgrefurl=https%3A%2F%2Fpkk.unnes.ac.id%2Fpengumuman%2Fjadwal-uas-genap-2018-2019-jurusan-pkk%2Fattachment%2Fuas%2F&docid=mQmi60dXgjr_jM&tbnid=vHHE08TNCZq09M&vet=12ahUKEwi1ytah-oSHAxVCwjgGHUPSDQYQM3oECBUQAA..i&w=1600&h=968&hcb=2&ved=2ahUKEwi1ytah-oSHAxVCwjgGHUPSDQYQM3oECBUQAAwidth="1150px" >
