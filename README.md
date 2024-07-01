@@ -118,7 +118,10 @@ SELECT * FROM Project_detail;
 ***Output :***
 ![Screenshot (488)](https://github.com/Maullynn/UASBasisData/assets/144296695/af3c38c5-d895-4f72-8fc1-b8f0353deb45)
 
-
+## if you get trouble "Cannot add or update a child row: a foreign key constraint fails| MySQL error Solution"
+```
+set FOREIGN_KEY_CHECKS = 0;
+```
 
 
 # Soal uas
